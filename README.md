@@ -11,3 +11,4 @@ No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, ca
 
 - ![C++ logo](https://user-images.githubusercontent.com/114286961/215284363-d2ca337f-14e1-4474-a469-912b1c485b07.png) C++ con QT
 
+<!--And developer Apps Desktop with java swing -->
