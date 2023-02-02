@@ -5,18 +5,16 @@ No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, ca
 
 ### 🛠 Lenguajes y frameworks 
 
-- ![226777 (1)](https://user-images.githubusercontent.com/114286961/215285345-1734feb6-2775-436d-9ded-58cb366eb510.png) Java 
+- ![226777 (1)](https://user-images.githubusercontent.com/114286961/215285345-1734feb6-2775-436d-9ded-58cb366eb510.png) Java (OOP)
 
-- ![spring-boot-](https://user-images.githubusercontent.com/114286961/215282948-56d898f5-32af-4a16-999c-91b0a3b49827.png) SpringBoot para el desarrollo de APIREST y Microservicios (Aún aprendiendo)
+- ![spring-boot-](https://user-images.githubusercontent.com/114286961/215282948-56d898f5-32af-4a16-999c-91b0a3b49827.png) SpringBoot para el desarrollo de API Rest y Microservicios (Aún aprendiendo)
 
 - ![C++ logo](https://user-images.githubusercontent.com/114286961/215284363-d2ca337f-14e1-4474-a469-912b1c485b07.png) C++ con QT (Aún aprendiendo)
 
 - ![HTMLCSSQ (1)](https://user-images.githubusercontent.com/114286961/215306718-7978e99b-6ad2-4636-9af1-7772a11419c0.png) HTML y CSS (básico)
 
-- ![javascript-5421 png](https://user-images.githubusercontent.com/114286961/215306661-793b9c61-30b8-41c9-94bf-8a2a5d8c5fb3.png) JavaScript con React (Aún en aprendizaje)
+- ![javascript-5421 png](https://user-images.githubusercontent.com/114286961/215306661-793b9c61-30b8-41c9-94bf-8a2a5d8c5fb3.png) JavaScript (OOP básico)
 
 
 
 
-
-<!--And developer Apps Desktop with java swing -->
