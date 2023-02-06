@@ -13,7 +13,7 @@ No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, ca
 
 - ![HTMLCSSQ (1)](https://user-images.githubusercontent.com/114286961/215306718-7978e99b-6ad2-4636-9af1-7772a11419c0.png) HTML y CSS (básico)
 
-- ![javascript-5421 png](https://user-images.githubusercontent.com/114286961/215306661-793b9c61-30b8-41c9-94bf-8a2a5d8c5fb3.png) JavaScript (OOP básico)
+- ![javascript-5421 png](https://user-images.githubusercontent.com/114286961/215306661-793b9c61-30b8-41c9-94bf-8a2a5d8c5fb3.png) JavaScript (básico)
 
 
 
