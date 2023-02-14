@@ -10,7 +10,7 @@ No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, ca
 - ![spring-boot-](https://user-images.githubusercontent.com/114286961/215282948-56d898f5-32af-4a16-999c-91b0a3b49827.png) SpringBoot para API Rest
 
 - ![1_5-aoK8IBmXve5whBQM90GA (1)](https://user-images.githubusercontent.com/114286961/217728318-a2b48de9-d07f-4a41-bbfd-b84995496f11.png)
- Flutter (Básico)
+ Dart con Flutter 
 
 - ![HTMLCSSQ (1)](https://user-images.githubusercontent.com/114286961/215306718-7978e99b-6ad2-4636-9af1-7772a11419c0.png) ![215306661-793b9c61-30b8-41c9-94bf-8a2a5d8c5fb3](https://user-images.githubusercontent.com/114286961/217727992-147fe49b-b326-4e13-b730-2627cfcc0dc0.png)
  HTML, CSS y JavaScript (básico)
