@@ -1,7 +1,7 @@
 ```Java
 System.out.println("Hello world");
 ```
-No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, cada dia mas me adentro a este maravilloso y apasionante mundo de la programación, y el como esto me permite hacer lo que sea que mi imaginación desee. A pesar de que tan solo he desarrollado unas pocas Apps Desktop, No estoy pensando cerrarme a solo el lenguaje, sino que continuo estudiando sobre las opciones para extender más sobre lo que sé para el desarrollo Backend, y de aplicaciones moviles. 
+No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, cada dia mas me adentro a este maravilloso y apasionante mundo de la programación, y el como esto me permite hacer lo que sea que mi imaginación desee. A pesar de que tan solo he desarrollado unas pocas Apps Desktop, No estoy pensando cerrarme a solo el lenguaje, sino que continuo estudiando sobre las opciones para extender más sobre lo que sé para el desarrollo Backend, y de aplicaciones moviles con dart (y Flutter). 
 
 ### 🛠 Lenguajes y frameworks 
 
