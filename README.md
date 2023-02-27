@@ -1,12 +1,15 @@
 ```Java
 System.out.println("Hello world");
 ```
+
+or
+
 ```Dart
 print("Hello world");
 ```
-No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, cada dia mas me adentro a este maravilloso y apasionante mundo de la programación, y el como esto me permite hacer lo que sea que mi imaginación desee. A pesar de que tan solo he desarrollado unas pocas Apps Desktop, No estoy pensando cerrarme a solo el lenguaje, sino que continuo estudiando sobre las opciones para extender más sobre lo que sé para el desarrollo Backend, y de aplicaciones moviles con dart (y Flutter). 
+No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, cada dia mas me adentro a este maravilloso y apasionante mundo de la programación, y el como esto me permite hacer lo que sea que mi imaginación desee. Soy un apasionado por crear apps moviles con el Framework de Flutter, usando API's creadas por mi mismo con SpringBoot. Y poco a poco continuaré expandiendo todo lo qu integrar todo con mis apliciones de Flutter.
 
-### 🛠 Lenguajes y frameworks 
+### 🛠 Lenguajes y Frameworks 
 
 - ![226777 (1)](https://user-images.githubusercontent.com/114286961/215285345-1734feb6-2775-436d-9ded-58cb366eb510.png) Java (OOP)
 
