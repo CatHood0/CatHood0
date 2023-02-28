@@ -7,7 +7,7 @@ or
 ```Dart
 print("Hello world");
 ```
-No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, cada dia mas me adentro a este maravilloso y apasionante mundo de la programación, y el como esto me permite hacer lo que sea que mi imaginación desee. Soy un apasionado por crear apps moviles con el Framework de Flutter, usando API's creadas por mi mismo con SpringBoot. Y poco a poco continuaré expandiendo todo lo qu integrar todo con mis apliciones de Flutter.
+No hace mucho, fue que escribí mi primera linea de codigo, y desde entonces, cada dia mas me adentro a este maravilloso y apasionante mundo de la programación, y el como esto me permite hacer lo que sea que mi imaginación desee. Soy un apasionado por crear apps moviles con el Framework de Flutter, usando API's creadas por mi mismo con SpringBoot.
 
 ### 🛠 Lenguajes y Frameworks 
 
