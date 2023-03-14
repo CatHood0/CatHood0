@@ -2,7 +2,7 @@
 System.out.println("Hello world");
 ```
 
-or
+o
 
 ```Dart
 print("Hello world");
