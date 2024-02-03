@@ -1,7 +1,3 @@
-```Java
-System.out.println("Hello world");
-```
-
 ### 🛠 Languages 
 
 - Dart 
