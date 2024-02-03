@@ -9,6 +9,9 @@ System.out.println("Hello world");
 - ![1_5-aoK8IBmXve5whBQM90GA (1)](https://user-images.githubusercontent.com/114286961/217728318-a2b48de9-d07f-4a41-bbfd-b84995496f11.png)
   Dart with Flutter 
 
+- HTML, CSS, JS and React (coming soon)
+
+- NodeJs
 
 
 
